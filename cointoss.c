@@ -17,6 +17,6 @@ int main(void){
         }
     }
     printf("Total Heads: %5d\n",heads);
-    printf("Total Tails: %5d\n",tails); //test
+    printf("Total Tails: %5d\n",tails); //test1
     return 0;
 }
